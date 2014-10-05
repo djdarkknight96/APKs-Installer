@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notices>
+    <notice>
+        <name>Android Open Source Project</name>
+        <copyright>Copyright (c) 2005-2012, The Android Open Source Project</copyright>
+        <url>http://source.android.com/license.html</url>
+        <license>Apache Software License 2.0</license>
+    </notice>
+     <notice>
+        <name>Android Asset Studio</name>
+        <copyright>Copyright (c) 2005-2012, The Android Open Source Project, Roman Nurik</copyright>
+        <url>http://romannurik.github.io/AndroidAssetStudio/</url>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Android Flat Button</name>
+        <copyright>Copyright {2014} {Le Van Hoang}</copyright>
+        <url>https://github.com/hoang8f/android-flat-button</url>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Floating Action Button (FAB)</name>
+        <copyright>Copyright © 2014 Faiz Malkani</copyright>
+        <url>https://github.com/FaizMalkani/FloatingActionButton</url>
+        <license>Apache Software License 2.0</license>
+    </notice>    
+</notices>

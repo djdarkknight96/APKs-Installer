@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:fbutton="http://schemas.android.com/apk/res-auto">
+<RelativeLayout   
+    android:background="@drawable/background_holo_dark"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <RelativeLayout
+        android:id="@+id/footer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/ab_bottom_solid_dark_holo"
+        android:gravity="center" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text="@string/about_footer"
+            android:textColor="@color/grey"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+
+
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_above="@id/footer"
+    >
+        <info.hoang8f.widget.FButton
+            android:drawableLeft="@drawable/h_icon"
+            android:drawablePadding="0dp"
+            android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:minHeight="@dimen/demo_button_min_height"
+                android:minWidth="@dimen/demo_button_min_width"
+                android:text="@string/theme_one"
+            android:textColor="@color/aokp"
+            fbutton:buttonColor="@color/fbutton_color_peter_river"
+            fbutton:shadowEnabled="true"
+            android:onClick="installOne" />
+        <info.hoang8f.widget.FButton
+            android:drawableLeft="@drawable/l_icon"
+            android:drawablePadding="0dp"
+            android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:minHeight="@dimen/demo_button_min_height"
+                android:minWidth="@dimen/demo_button_min_width"
+                android:text="@string/theme_two"
+            android:textColor="@color/aokp"
+            fbutton:buttonColor="@color/black"
+            fbutton:shadowEnabled="true"
+            android:onClick="installTwo" />
+</LinearLayout>
+</RelativeLayout>
+<com.faizmalkani.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fabbutton"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:layout_gravity="bottom|left"
+        android:layout_marginBottom="40dp"
+        android:layout_marginRight="16dp"
+        android:onClick="fabClicked"
+        app:color="@color/aokp"
+        app:drawable="@drawable/ic_action_about"/>
+
+</FrameLayout>

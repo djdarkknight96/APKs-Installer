@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <PreferenceCategory android:title="@string/Dev_cat" 
+        android:key="info"/>
+        
+    <Preference android:key="buddy1" 
+        android:title="@string/dev1" 
+        android:summary="XDA" 
+        android:icon="@drawable/ic_ivan"
+        />
+    
+   <Preference android:key="buddy2" 
+        android:title="@string/dev2" 
+        android:summary="XDA" 
+        android:icon="@drawable/ic_enrico"
+        />
+    
+     <PreferenceCategory android:title="@string/credits"/>
+     
+     <Preference android:summary="aokp.co" 
+        android:title="@string/aokp" 
+        android:key="aokappa"
+        android:icon="@drawable/ic_aokp"
+        />
+     <Preference android:summary="The bootanimation&apos;s creator!" 
+        android:title="@string/kiernan" 
+        android:key="moore"
+        android:icon="@drawable/ic_moore"
+        />
+     <Preference android:summary="http://www.thaphlash.com/" 
+        android:title="@string/plash" 
+        android:key="thaplash"
+        android:icon="@drawable/ic_plash"
+        />
+     <Preference android:summary="XDA" 
+        android:title="@string/rushab" 
+        android:key="rush"
+        android:icon="@drawable/ic_rush"
+        />
+     <Preference android:summary="G+" 
+        android:title="@string/ananda" 
+        android:key="bibek"
+        android:icon="@drawable/ic_bibek"
+        />
+
+     <PreferenceCategory android:title="@string/usedlibs" />
+
+     <Preference android:summary="@string/li" 
+        android:title="@string/usedlibs" 
+        android:icon="@drawable/ic_license"
+        android:key="lic1"
+        />
+     <com.aokp.chooser.swag.Version_pref android:title="Installed Version" />
+     
+
+</PreferenceScreen>

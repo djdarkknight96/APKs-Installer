@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AOKP Theme by EnricoD</string>
+    <string name="theme_one">High res boot</string>
+    <string name="theme_two">Low res boot</string>
+    <string name="about_header">AOKP Theme by EnricoD</string>
+    <string name="about_footer">Android Open Kang Project</string>
+    <string name="Dev_cat">Devs</string>
+    <string name="dev1">ivn888</string>
+    <string name="dev2">EnricoD</string>
+    <string name="li">Licenses</string>
+    <string name="error">That\'s an error</string>
+    <string name="credits">Special thanks</string>
+    <string name="usedlibs">Used libraries</string>
+    <string name="rushab">rush25</string>
+    <string name="ananda">anandabibek</string>
+    <string name="aokp">AOKP</string>
+    <string name="plash">Tha PHLASH</string>
+    <string name="kiernan">Kiernan Moore</string>
+</resources>
