@@ -18,7 +18,7 @@ If You want to release this theme for sale please contact me and consider to mak
 
 http://forum.xda-developers.com/member.php?u=5266287
 
-2. **DO NOT REMOVE CREDITS!**
+2. **ABSOLUTELY DO NOT REMOVE CREDITS!**
 
 
 
