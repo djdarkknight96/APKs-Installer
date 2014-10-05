@@ -51,7 +51,7 @@ https://github.com/PSDev/LicensesDialog
 
 CREDITS:
 
-- **Ivan D'Ortenzio**
+- **ivn888**
 - Tha PHLASH
 - rush25
 - anandabibek
