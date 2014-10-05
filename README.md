@@ -10,11 +10,15 @@ An application (AOKP CM11 Theme):
 
 https://play.google.com/store/apps/details?id=com.aokp.chooser.swag
 
-This is Free and is released under apache license. Do not release for sale without any permissions!
+This is Free and is released under apache license. 
+
+1. **DO NOT RELEASE THIS FOR SALE!**
 
 If You want to release this theme for sale please contact me and consider to make a donation following this link:
 
 http://forum.xda-developers.com/member.php?u=5266287
+
+2. **DO NOT REMOVE CREDITS!**
 
 
 
