@@ -10,6 +10,10 @@ An application (AOKP CM11 Theme):
 
 https://play.google.com/store/apps/details?id=com.aokp.chooser.swag
 
+apk chooser in action:
+
+https://www.youtube.com/watch?v=7wxK4p9wj0M&list=UUFy8jx_IoF_tpLpCxLjsJ_Q
+
 This is Free and is released under apache license. 
 
 1. **DO NOT REDISTRIBUTE THIS FOR SALE!**
