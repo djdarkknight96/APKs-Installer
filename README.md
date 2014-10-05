@@ -20,7 +20,12 @@ This is Free and is released under apache license.
 
 If You want to release this theme for sale please contact me and consider to make a donation following this link:
 
+Me
 http://forum.xda-developers.com/member.php?u=5266287
+
+or to Alyssia
+http://www.youcaring.com/medical-fundraiser/alyssia-s-road-to-recovery/213589
+
 
 2. **ABSOLUTELY DO NOT REMOVE CREDITS!**
 
